@@ -1,8 +1,6 @@
 #All input are in lowercase, if there is any more ways to enhance this pls feel free to share via dm, thanks for playing
 
 
-
-
 def game():
 
     secretword = 'folabi'
